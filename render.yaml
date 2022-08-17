@@ -1,5 +1,5 @@
 services:
-- type: web
+- type: pserv
   name: datadog-agent
   env: docker
   autoDeploy: false
